@@ -1,6 +1,7 @@
 # crawl_novel
 晋江文学城(www.jjwxc.net)爬虫程序，输入novelid即可爬取，自动保存
-
+</br>
+仅作为学习研究用途，如使用人有侵权行为，作者概不负责
 ## 安装依赖
 `pip install bs4`
 </br>
