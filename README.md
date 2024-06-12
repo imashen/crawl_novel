@@ -8,4 +8,8 @@
 ## 使用程序
 `python do.py`
 输入想要爬取的小说novelid即可自动爬取
+
+## 示例
+链接：https://www.jjwxc.net/onebook.php?novelid=452296
+其中novelid即为452296
 ![image](https://github.com/imashen/crawl_novel/assets/50132994/209c5df1-e982-4ec8-a943-4498a7881663)
